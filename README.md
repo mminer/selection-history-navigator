@@ -4,7 +4,7 @@ This is a Unity editor extension that adds web browser-style **Back** and
 **Forward** items to the *Edit > Selection* menu. These allow you to quickly
 re-select the game object or asset that you previously had selected.
 
-![Screenshot](screenshot.png)
+![Screenshot](http://matthewminer.com/images/selection-history-navigator@2x.png)
 
 
 ## Using
