@@ -1,0 +1,7 @@
+{
+  "description": "Editor extension to navigate between object selections.",
+  "displayName": "Selection History Navigator",
+  "name": "com.matthewminer.selection-history-navigator",
+  "unity": "2019.4",
+  "version": "1.0.0"
+}
